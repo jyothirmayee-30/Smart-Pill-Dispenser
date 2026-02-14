@@ -1,0 +1,4 @@
+1. WiFiNINA (by Arduino)
+2. RTCZero (Built-in for MKR series)
+3. Servo (Built-in)
+4. LiquidCrystal_I2C (by Frank de Brabander)
